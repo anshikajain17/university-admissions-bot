@@ -85,6 +85,12 @@ university-admissions-bot/
 
 ---
 
+
+## 🎬 Demo
+
+![Demo](demo.gif.gif)
+
+
 ## 👩‍💻 Author
 
 **Anshika Jain**  
