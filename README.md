@@ -1,5 +1,12 @@
 # 🎓 University Admissions AI Assistant
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Flask-Web_App-black?logo=flask" />
+  <img src="https://img.shields.io/badge/Deployment-Render-purple?logo=render" />
+  <img src="https://img.shields.io/badge/API-ScaleDown-green" />
+</p>
+
 AI-powered web application for university admission guidance with dynamic text compression using ScaleDown API.
 
 ---
