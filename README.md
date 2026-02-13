@@ -77,11 +77,19 @@ university-admissions-bot/
 
 ---
 
+
+## 📸 Application Preview
+
+![App Screenshot](screenshot.png)
+
+
+---
+
 ## 👩‍💻 Author
 
 **Anshika Jain**  
 B.Tech IT Student | Java Developer | AI Enthusiast  
-Passionate about building AI-powered web applications 🚀  
+Passionate about building AI-powered web applications 🚀
 
 📫 Open to Internship & SDE Opportunities
 
