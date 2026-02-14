@@ -19,6 +19,9 @@ AI-powered web application for university admission guidance with dynamic text c
 > The service may take ~30–50 seconds to respond on first load due to inactivity sleep.  
 > Once active, it works smoothly.
 
+
+📘 Detailed documentation available in `/docs` folder.
+
 ---
 
 ## 🛠 Tech Stack
